@@ -1,0 +1,76 @@
+{
+  "results": [
+    {
+      "investment_id": 1,
+      "investment_name": "Simplify Healthcare Technology",
+      "business_model": "Events",
+      "business_type": "Marketplace,B2B",
+      "industry": "Health Care",
+      "stage": "pre seed",
+      "established": "2020",
+      "location": "India,Pune",
+      "website": "https://simplifyhealthcare.com",
+      "email": "info@simplifyhealthcare.com"
+    },
+    {
+      "investment_id": 2,
+      "investment_name": "Apptware",
+      "business_model": "Events",
+      "business_type": "B2B",
+      "industry": "Information Technology",
+      "stage": "pre seed",
+      "established": "2020",
+      "location": "India, Baner,Pune",
+      "website": "https://apptware.com",
+      "email": "sales@apptware.com"
+    },
+    {
+      "investment_id": 3,
+      "investment_name": "Buffbunny",
+      "business_model": "Events",
+      "business_type": "Marketplace",
+      "industry": "e-commerce",
+      "stage": "pre seed",
+      "established": "2020",
+      "location": "India, Pune",
+      "website": "https://www.buffbunny.com",
+      "email": "contact@buffbunny.com"
+    },
+    {
+      "investment_id": 4,
+      "investment_name": "Globant",
+      "business_model": "Marketing",
+      "business_type": "Marketplace,B2B",
+      "industry": "Health Care",
+      "stage": "pre seed",
+      "established": "2020",
+      "location": "India, Pune",
+      "website": "https://www.globant.com",
+      "email": "hi@globant.com"
+    },
+    {
+      "investment_id": 5,
+      "investment_name": "Capgemini",
+      "business_model": "Events",
+      "business_type": "Marketplace,B2B",
+      "industry": "Health Care",
+      "stage": "pre seed",
+      "established": "2020",
+      "location": "India, Pune",
+      "website": "https://www.capgemini.com",
+      "email": "contact@capgemini.com"
+    },
+    {
+      "investment_id": 6,
+      "investment_name": "Cubyts",
+      "business_model": "Events",
+      "business_type": "Marketplace,B2B",
+      "industry": "Health Care",
+      "stage": "pre seed",
+      "established": "2020",
+      "location": "India, Pune",
+      "website": "https://www.cubyts.com/",
+      "email": "contact@cubyts.com"
+    }
+  ]
+}
